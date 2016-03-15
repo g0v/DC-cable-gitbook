@@ -6,8 +6,7 @@
 
 通傳會參考先進國家通訊傳播匯流下之視訊服務管理模式，並考量我國有線廣播電視系統與多媒體內容傳輸平臺服務（MOD）產業發展歷程，以前瞻性思維，導入匯流層級化的新管理規範架構，調合差異管理的落差。
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/1A5ymJcjZaOMsD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px;
-margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/1A5ymJcjZaOMsD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 
 [《有線多頻道平臺服務管理條例》草案](http://www.slideshare.net/vtaiwan/ss-59584967)重點如下：
 
