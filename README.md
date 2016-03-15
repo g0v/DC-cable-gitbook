@@ -9,7 +9,7 @@
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/1A5ymJcjZaOMsD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px;
 margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 
-[本條例](http://www.slideshare.net/vtaiwan/ss-59584967)重點如下：
+[《有線多頻道平臺服務管理條例》草案](http://www.slideshare.net/vtaiwan/ss-59584967)重點如下：
 
 ## 朝向匯流思維，五法關係明確化
 
@@ -35,4 +35,5 @@ margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 ## 兼顧普及發展，保障視聽權益
 
 每年提撥「有線多頻道平臺服務」營業額千分之五之金額分別提繳中央主管機關及直轄市、縣市政府，從事多頻道服務之普及發展，專款專用製播地方及公用頻道節目，以及獎勵、補助及推廣多頻道服務數位化與民眾近用公用頻道之相關業務與活動。
+
 電信事業提供有線多頻道平臺服務時，因提供服務所得用戶之個人資料，依個人資料保護法規定辦理，訂定個人資料保護計畫。另應依相關法律規定，提供身心障礙者或弱勢族群接取其所需收視、聽多頻道服務之必要電信終端設備，以利近用接取。
